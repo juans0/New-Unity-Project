@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\IAEnemigo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Luz_parpadeante.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RotacionLLave.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RecogerLLaves.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MensajePantalla.cs" Line="20" Column="47" />
+      <File FileName="Assets\DungeonModules\Scripts\DoorAOpen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActivarPuerta.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoverObjetos.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuPausa.cs" Line="1" Column="1" />
+      <File FileName="Assets\TreasureChestMaker\TCM\Scripts\ActivateChest.cs" Line="34" Column="50" />
+      <File FileName="Assets\Scripts\IAEnemigo.cs" Line="42" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
